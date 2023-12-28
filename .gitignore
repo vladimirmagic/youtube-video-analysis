@@ -1,0 +1,10 @@
+venv
+.env
+secret_keys.json
+main.py
+output_frames
+video_details
+audio_files
+channel_content
+.ipynb_checkpoints
+__pycache__
